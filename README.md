@@ -27,6 +27,11 @@ The Marketing Team have asked to share certain insights. They have also asked to
 
 **b. Which age group prefers energy drinks more?**
 
+  <img src="Images/Q2.png" alt="Respondents by Gender" width="300">
+
+
+
+
 
 
 
