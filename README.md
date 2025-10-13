@@ -14,8 +14,19 @@ Their Marketing Team wants their Data Analyst to convert these survey results to
 
 The Marketing Team have asked to share certain insights. They have also asked to share meaningful recommendations from the data or external factors etc.
 
-
-<p align="center">
-  <img src="Images/Screenshot 2025-10-13 155713.png" alt="Respondents by Gender" width="600">
+<p align="center>
+  
+# Project
 </p>
+
+# Problem Statements & Solutions
+# Demographic Insights
+**Who prefers energy drinks more? (male/female/non-binary?)**
+
+  <img src="Images/Screenshot 2025-10-13 155713.png" alt="Respondents by Gender" width="300">
+
+**b. Which age group prefers energy drinks more?**
+
+
+
 
