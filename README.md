@@ -13,3 +13,9 @@ The survey question file is attached at the end of this article.
 Their Marketing Team wants their Data Analyst to convert these survey results to meaningful insights which the team can use to drive actions.
 
 The Marketing Team have asked to share certain insights. They have also asked to share meaningful recommendations from the data or external factors etc.
+
+
+<p align="center">
+  <img src="Images/Screenshot 2025-10-13 155713.png" alt="Respondents by Gender" width="600">
+</p>
+
