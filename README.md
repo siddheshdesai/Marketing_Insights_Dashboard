@@ -123,11 +123,28 @@ Also, this data shows youth is consuming these drinks more.
 
 43% of the consumers buy a product if the price is between 50-99.
 
-<img src="Images/cp3.png" width="200">
+<img src="Images/pb1.png" width="200">
 
 40% of the consumers do not expect a change in the packaging while 39% of consumers are open to trying the Limited Edition Packaging.
 
+<img src="Images/pb2.png" width="200">
+
+# Product Development
+
+**a. Which area of business should we focus more on our product development?
+(Branding/taste/availability)**
+
+The taste experience rating is the same as the industry rating. This is not something that needs immediate attention.
+
+<img src="Images/cp1.png" width="200">
+
+We need to work on the availability of the product. About 20% of the consumers choose the product because it is available. Availability is a major factor in sales of a product.
+
+
 <img src="Images/cp3.png" width="200">
+
+
+
 
 
 
