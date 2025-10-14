@@ -89,7 +89,7 @@ As we have seen previously Online Ads are the most effective way to reach maximu
 Out of 980, 455 people have heard about our brand and hence we consider their ratings for the CodeX product’s taste.
 This rating of 3.3 is the industry avg rating as well.
 
-<img src="Images/cp1.png" width="300">
+<img src="Images/cp1.png" width="200">
 
 
 **b. Which cities do we need to focus more on?**
@@ -136,7 +136,7 @@ Also, this data shows youth is consuming these drinks more.
 
 The taste experience rating is the same as the industry rating. This is not something that needs immediate attention.
 
-<img src="Images/cp1.png" width="300">
+<img src="Images/cp1.png" width="200">
 
 We need to work on the availability of the product. About 20% of the consumers choose the product because it is available. Availability is a major factor in sales of a product.
 
