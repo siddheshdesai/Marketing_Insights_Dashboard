@@ -107,7 +107,7 @@ The neutral and negative responses are combined in this visual as they both are 
 Supermarkets are the most common choice among consumers to buy energy drinks.
 
 
-<img src="Images/mv1.png" width="200">
+<img src="Images/mv1.png" width="300">
 
 
 **b. What are the typical consumption situations for energy drinks among respondents?**
@@ -123,11 +123,11 @@ Also, this data shows youth is consuming these drinks more.
 
 43% of the consumers buy a product if the price is between 50-99.
 
-<img src="Images/pb1.png" width="200">
+<img src="Images/pb1.png" width="300">
 
 40% of the consumers do not expect a change in the packaging while 39% of consumers are open to trying the Limited Edition Packaging.
 
-<img src="Images/pb2.png" width="200">
+<img src="Images/pb2.png" width="300">
 
 # Product Development
 
@@ -258,4 +258,5 @@ It is evident from the statistics that our consumers are mostly between the ages
 
 From this survey, the count shows that 70% of consumers are youth.
 
-<img src="Images/pb1.png" width="300">
+
+<img src="Images/Screenshot 2025-10-14 164727.png" width="300">
